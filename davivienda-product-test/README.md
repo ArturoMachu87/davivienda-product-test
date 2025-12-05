@@ -25,3 +25,8 @@ URL de la API: `http://localhost:8080`
 - `GET /api/products/{id}`
 - `PUT /api/products/{id}`
 - `DELETE /api/products/{id}`
+- `POST /auth/login`
+
+
+
+
